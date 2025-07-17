@@ -1,0 +1,436 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name='keywords' content='aqua, car, top, cartoon, vector clip art, royalty free images, royalty free graphic, stock photos'/>
+<meta name="robots" content="all">
+<link rel='image_src' href='/cliparts/r/T/a/S/r/Z/aqua-car-top-view-th.png' />
+<title>Aqua Car - Top View Clip Art at Clker.com - vector clip art online, royalty free &amp; public domain</title>
+<meta name='description' content="Download Clker's Aqua Car - Top View clip art and related images now. Multiple sizes and related images are all free on Clker.com."/>
+<!-- Styles -->
+  <link rel="stylesheet" href='/css/main.css'>
+	<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="js/clker.js"></script> <!-- This may go away as transitioned to jquery -->
+  <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+
+</head>
+
+<body>
+
+<!-- Navigation -->
+<!-- This calls a webfont ONLY used when the user is logged in --><link href='//fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
+<script src="/inc/main.js"></script>
+<script>
+	function editImage() {
+		createCookie("edit",1,1);
+		createCookie("orgid",-1,1);
+		window.location = "/inc/svgedit/svg-editor.html?url=%2Finc%2Fclean.html%3Fid%3D192737";
+	}
+</script>
+<div class=" matte navMain group">
+	<a href="/" class="navLogo"><img src="/img/clker-logo.png" alt="CLKER FREE Clipart" height="#" width="#"></a>
+	<ul class="broad">
+		<li><a href="/upload.html"><img src="/img/upload.png" alt="upload" height="#" width="#"></a></li>
+		<li><a href='#' onclick='editImage();'><img src="/img/draw.png" alt="draw" height="#" width="#"></a></li>
+	</ul>
+
+	<!-- Search Form -->
+	<form class="navSearch capText" id="searchform" method="post" action="/redir.html">
+		<!--<label>Search</label>-->
+		<input type="text" name="terms" value="" placeholder="Search"/> 
+		<input type="submit" value="Search"/>
+		<input type="hidden" name="datatype" value="svgimage"/>
+	</form>
+	<!-- /Search Form -->
+	
+		<ul class="narrow capText ">
+		<li><a href="#" class="fbButton"><img src="img/facebook-login.png" alt="Facebook" height="12px" width="12px"><span>Facebook Login</span></a></li>
+		<li><a onclick="$('#joinForm').hide(); if($('#loginForm').is(':visible')) $('#loginForm').slideUp(); else $('#loginForm').slideDown();" class="navClick"><img src="/img/login.png" alt="Login" width="60" height="30"></a></li>
+		<li><a onclick="$('#loginForm').hide(); if($('#joinForm').is(':visible')) $('#joinForm').slideUp(); else $('#joinForm').slideDown();" class="navClick"><img src="/img/join.png" alt="Join" width="60" height="30"></a></li>
+	</ul>
+	</div>
+<!-- /Navigation -->
+<!-- Loginform -->
+<div name="loginForm" id="loginForm">
+		<a class="closeX centerText" onclick="$('#loginForm').slideUp();" title="Close">X</a>
+		<form method="post" class="loginForm matteInner group" action="https://www.clker.com/">
+
+			<label class="capText">E-mail</label>
+			<input type="text" name="email">
+		
+			<label class="capText">Password</label>
+			<input type="password" name="password">
+			
+				<!--<label class="capText" style="color:#fbfbfc;">Login</label>-->
+				<input class="buttonGreen" type="submit" name="submit" value="Login">
+				
+				<div class="rememberMe">
+					<input type="checkbox" name="remember" style="display:inline;">
+					<label class="tiny">Remember me</label>
+				</div>
+		</form>
+</div>
+<!-- /Loginform -->
+
+
+
+
+
+
+
+
+<!-- Join Form -->
+<div name="joinForm" id="joinForm">
+		<a class="closeX centerText" onclick="$('#joinForm').slideUp();" title="Close">X</a>
+		<form method="post" class="loginForm matteInner group" action="https://www.clker.com/">
+
+					<label class="capText">Name</label>
+					<input type="text" name="name">
+
+					<label class="capText">E-mail</label>
+					<input type="text" name="email">
+
+					<label class="capText">Confirm E-mail</label>
+					<input type="text" name="email">
+
+					<label class="capText">Password</label>
+					<input type="password" name="password">
+
+					<label class="capText">Confirm Password</label>
+					<input type="password" name="password">
+				
+					<input class="buttonGreen" type="submit" name="Signup" value="Join">
+					
+					<div class="rememberMe">
+						<input type="checkbox" name="remember" style="display:inline;">
+						<label class="tiny">Remember me</label>
+					</div>			
+		</form>
+</div>
+<!-- /Join Form -->
+
+<!-- Body Container -->	
+<div class="matteInner group">
+	<!-- Breadcrumb Center -->
+  <ul class="breadcrumbCenter breadcrumb capText group">
+    <li><a href="/">Home</a></li>
+	<li><a href='/search/aqua/1'>aqua</a></li>
+<li><a href='/search/car/1'>car</a></li>
+<li><a href='/search/top/1'>top</a></li>
+    <li class="last">Aqua Car - Top View</li>
+  </ul>
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+
+	{
+        "@type": "ListItem",
+        "position": 0,
+        "name": "aqua",
+        "item": "https://www.clker.com/search/aqua/1"
+	},
+	{
+        "@type": "ListItem",
+        "position": 1,
+        "name": "car",
+        "item": "https://www.clker.com/search/car/1"
+	},
+	{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "top",
+        "item": "https://www.clker.com/search/top/1"
+	}      ]
+    }
+    </script>
+	<!-- /Breadcrumb Center -->
+
+	
+	<!-- Heading 1, Used once per page for page heading -->
+	<h1 class="centerText" id="itemtitle">Aqua Car - Top View clip art</h1>
+	<!-- Left Column -->
+	<div class="oneCol billboard group">
+		<div class="billboard googleAd">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-7297922744621696"
+     data-ad-slot="1684992551"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		</div>
+		
+		
+		<!-- HTML embed section -->
+		<dl>
+			<dt>Embed this Art into your website:</dt>
+			<dd>1. Select a size,</dd>
+			<dd>2. Copy the HTML from the code box,</dd>
+			<dd>3. Paste the HTML into your website.</dd>
+		</dl>
+				
+		<div class="tabs">
+			<ul class="tabsNavigation">
+			    <li><a href="#">Small</a></li>
+			    <li><a href="#">Medium</a></li>
+			    <li><a href="#">Large</a></li>
+			</ul>
+						<div class="tabsContent"><div id="small" onclick="selectText('small')">&lt;!-- Size: 140 px -- &gt;<br/>&lt;a href="/cliparts/r/T/a/S/r/Z/aqua-car-top-view-th.png"&gt;&lt;img src="/cliparts/r/T/a/S/r/Z/aqua-car-top-view-th.png" alt='Aqua Car - Top View clip art'/&gt;&lt;/a&gt;</div></div>
+			<div class="tabsContent"><div id="medium" onclick="selectText('medium')">&lt;!-- Size: 340 px -- &gt;<br/>&lt;a href="/cliparts/r/T/a/S/r/Z/aqua-car-top-view-md.png"&gt;&lt;img src="/cliparts/r/T/a/S/r/Z/aqua-car-top-view-md.png" alt='Aqua Car - Top View clip art'/&gt;&lt;/a&gt;</div></div>
+			<div class="tabsContent"><div id="large" onclick="selectText('large')">&lt;!-- Size: 640 px -- &gt;<br/>&lt;a href="/cliparts/r/T/a/S/r/Z/aqua-car-top-view-hi.png"&gt;&lt;img src="/cliparts/r/T/a/S/r/Z/aqua-car-top-view-hi.png" alt='Aqua Car - Top View clip art'/&gt;&lt;/a&gt;</div></div>
+			<!--
+			<div class="tabsContent"><div id="small" onclick="selectText('small')">&lt;!-- Size: 140 px --&gt;<br/>&lt;div style='font-size: 0.8em;font-family: Arial;float:left;'&gt;&lt;iframe marginwidth='0' marginheight='0' frameborder='0' scrolling='no' id='clkerframe1160290' src='http://www.clker.com/embed-160290-1160290-large.html' style='border: none ; width: 640px;overflow:hidden;'&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;a href='http://www.clker.com/clipart-polo-shirt-17.html' target='_blank'&gt; Polo Shirt clipart&lt;/a&gt; &lt;br/&gt;from &lt;a href='http://www.clker.com/'&gt; Clker.com&lt;/a&gt;&lt;/div&gt;</div></div>
+			<div class="tabsContent"><div id="medium" onclick="selectText('medium')">&lt;!-- Size: 340 px --&gt;<br/>&lt;div style='font-size: 0.8em;font-family: Arial;float:left;'&gt;&lt;iframe marginwidth='0' marginheight='0' frameborder='0' scrolling='no' id='clkerframe1160290' src='http://www.clker.com/embed-160290-1160290-large.html' style='border: none ; width: 640px;overflow:hidden;'&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;a href='http://www.clker.com/clipart-polo-shirt-17.html' target='_blank'&gt; Polo Shirt clipart&lt;/a&gt; &lt;br/&gt;from &lt;a href='http://www.clker.com/'&gt; Clker.com&lt;/a&gt;&lt;/div&gt;</div></div>
+			<div class="tabsContent"><div id="large" onclick="selectText('large')">&lt;!-- Size: 640 px --&gt;<br/>&lt;div style='font-size: 0.8em;font-family: Arial;float:left;'&gt;&lt;iframe marginwidth='0' marginheight='0' frameborder='0' scrolling='no' id='clkerframe1160290' src='http://www.clker.com/embed-160290-1160290-large.html' style='border: none ; width: 640px;overflow:hidden;'&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;a href='http://www.clker.com/clipart-polo-shirt-17.html' target='_blank'&gt; Polo Shirt clipart&lt;/a&gt; &lt;br/&gt;from &lt;a href='http://www.clker.com/'&gt; Clker.com&lt;/a&gt;&lt;/div&gt;</div></div>
+			-->
+		</div>
+		<!-- /HTML embed section -->
+		
+		<h3 class="capText">Derivatives &amp; Responses</h3>
+		<ul class="threeGrid group">
+			<div><li><a href='/clipart-pink-car-top-view.html'><div class='imgHolder'><img src="/cliparts/a/7/Q/G/H/9/pink-car-top-view-th.png"></div>Pink Car - Top View<!--<br/>by jlregister--></a></li></div><div><li><a href='/clipart-green-car-top-view-heading-west-1.html'><div class='imgHolder'><img src="/cliparts/N/j/d/q/Z/j/green-car-top-view-heading-west-th.png"></div>green Car - Top View heading west<!--<br/>by martha Lee--></a></li></div><div><li><a href='/clipart-purple-car-top-view.html' class='last'><div class='imgHolder'><img src="/cliparts/M/B/B/k/9/5/purple-car-top-view-th.png"></div>Purple Car - Top View<!--<br/>by Jibran--></a></li></div>		</ul>
+			<em class="capText"><a href="#">More</a></em>
+	</div>
+	<!-- /Left Column -->
+
+	<!-- Center Column -->
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "AggregateRating",
+      "itemReviewed": {
+        "@type": "MediaObject",
+        "image": "http://www.clker.com//cliparts/r/T/a/S/r/Z/aqua-car-top-view-hi.png",
+        "name": "Aqua Car - Top View clip art"      },
+      "ratingValue": "4",
+      "bestRating": "5",
+      "ratingCount": "1"
+    }
+</script>
+
+	<div class="oneCol billboard group">
+		<h2><span><strong>Shared By: </strong> <a href="/profile-147856.html" rel="nofollow">Jibran</a></span> 03-29-2012</h2>
+		<div class="featuredImage">
+			<a href='#' onclick="editImage();" class="btn btnRight" title="Edit this image"><img src="/img/edit.png"></a>
+			<a href="/cliparts/r/T/a/S/r/Z/aqua-car-top-view.svg" target="_blank" class="btn btnLeft" title="Download as SVG file"><img src="/img/download.png"></a>
+			<a href="/cliparts/r/T/a/S/r/Z/aqua-car-top-view-md.png" title="Download as SVG file"><img class="theImage" src="/cliparts/r/T/a/S/r/Z/aqua-car-top-view-md.png" rel="v:photo" alt="Aqua Car - Top View Clip Art" title="Aqua Car - Top View Clip Art"></a>
+		</div>
+		<div class="capText rateHire">
+								Rating:
+			<img src='/img/star-grey.gif' class='star' name='1'>
+			<img src='/img/star-grey.gif' class='star' name='2'>
+			<img src='/img/star-grey.gif' class='star' name='3'>
+			<img src='/img/star-grey.gif' class='star' name='4'>
+			<img src='/img/star-grey.gif' class='star' name='5'>
+
+			<script>
+			var rating = 4;
+			function setStars(rtg) {
+			  $('.star').each(function() {
+				if($(this).attr('name') <= rtg) $(this).attr('src', '/img/star-black.gif');
+				else $(this).attr('src', '/img/star-grey.gif');
+			  });
+			}
+			$('.star').mouseover(function() {
+			  setStars($(this).attr('name'));
+			}).mouseout(function() {
+			  setStars(rating);
+			}).click(function() {
+			  var rate = $(this).attr('name');
+			  $('#itemtitle').after("<h2 id='msg'>Sending rating...</h2>");
+			  $.post(window.location, {rating: rate}, function(data) {
+			    $('#msg').text("Added rating: "+rate).css('background-color', '#009900');
+			  }).fail(function() {
+			    $('#msg').text("You've already rated this picture.").css('background-color', '#990000');
+			  });
+			});
+			setStars(rating);
+			</script>
+			<!--<img src="img/star-black.gif"><img src="img/star-black.gif"><img src="img/star-black.gif"><img src="img/star-grey.gif"><img src="img/star-grey.gif">
+			--><p class="capText">Click Stars To Rate</p>
+			<div class="shareButtons">
+				<!-- Facebook -->	<a href="http://www.facebook.com/sharer.php?u=http://www.clker.com//clipart-aqua-car-top-view.html" target="_blank"><img src="/img/share-facebook.png" alt="Facebook" /></a> 
+				<!-- Twitter -->	<a href="http://twitter.com/share?url=http://www.clker.com//clipart-aqua-car-top-view.html&text=Aqua Car - Top View" target="_blank"><img src="/img/share-twitter.png" alt="Twitter" /></a> 
+				<!-- Reddit -->		<a href="http://reddit.com/submit?url=http://www.clker.com//clipart-aqua-car-top-view.html&title=Aqua Car - Top View" target="_blank"><img src="/img/share-reddit.png" alt="Reddit" /></a>
+				<!-- Pinterest -->  <a href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());"><img src="/img/share-pinterest.png" alt="Pinterest" /></a>
+				<!-- Email -->		<a href="mailto:?Subject=THIS PAGE TITLE&Body=I%20saw%20this%20and%20thought%20of%20you!%20 http://www.clker.com//clipart-aqua-car-top-view.html"><img src="/img/share-email.png" alt="Email" /></a>
+<!--  -->			</div>
+			<!--<a href="#">Hire Ocal For A Project</a>-->
+		</div>
+		
+		<div class="group billboard">
+			<h3 class="capText">Download this image as:</h3>
+			
+			<!--<dl class="downloads capText billboard">
+				<dt>Vector</dt>
+					<dd><a href="#">SVG</a></dd>
+					<dd><a href="#">ODG</a></dd>
+			</dl>-->
+			<dl class="downloads capText billboard">
+				<dt>PNG</dt>
+					<dd><a href="/cliparts/r/T/a/S/r/Z/aqua-car-top-view-th.png" target="_blank">small</a></dd>
+					<dd><a href="/cliparts/r/T/a/S/r/Z/aqua-car-top-view-md.png" target="_blank">medium</a></dd>
+					<dd><a href="/cliparts/r/T/a/S/r/Z/aqua-car-top-view-hi.png" target="_blank">large</a></dd>
+			</dl>
+		</div>
+
+		<h3 class="capText">Tags</h3>
+		<ul class="tags capText group">
+			<li><a href='/search/aqua/1'>aqua</a></li><li><a href='/search/car/1'>car</a></li><li><a href='/search/top/1'>top</a></li>		</ul>
+<!--
+		<form method="post" class="microForm">
+			<label class="capText">Add Tags</label>
+			<input class="oneLiner" type="text" name="addedTags">
+			<input type="submit" name="#" value="Tag">
+		</form>
+-->
+
+	</div>
+	<!-- /Center Column -->
+
+	<!-- Right Column -->
+	<div class="oneCol billboard group">
+		<div class="billboard googleAd">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- clipart-right-new -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-7297922744621696"
+     data-ad-slot="3161725751"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		</div>
+		<h3 class="capText">Description</h3>
+		<p>No description given</p>		<div class="commentary">
+			<h3 class="capText">Comments</h3>
+			
+					</div>
+	</div>
+	<!-- /Right Column -->
+</div>
+
+<!-- AD + Related Full Width Section -->
+<div class="matteInner group">
+	
+	<div class="oneCol billboard googleAd">
+			</div>
+
+	<div class="twoColRight">
+		<div class="headBar group">
+			<h3 class="capText">Similar Clipart</h3>
+			<em class="capText"><a href="#">More</a></em>
+		</div>
+		<ul class="fiveGrid group">
+			<div><li><a href='/clipart-3034.html'><img src=/cliparts/c/2/6/1/11949851531282341268bmw_z_from_top_aubanel_.svg.thumb.png><br/>BMW Z4 from top</a></li></div><div><li><a href='/clipart-10739.html'><img src=/cliparts/7/2/a/8/11954311601763975875glibersat_Pigeau.svg.thumb.png><br/>sports car top</a></li></div><div><li><a href='/clipart-26981.html'><img src=/cliparts/7/3/6/3/12413709111282372036Anonymous_BMW_Z4_top_view.svg.thumb.png><br/>car</a></li></div><div><li><a href='/clipart-red-sports-car-top-view.html'><img src=/cliparts/q/0/m/g/P/c/red-sports-car-top-view-th.png><br/>Red sports car top view</a></li></div><div><li><a href='/clipart-cartoon-sporty-car.html' class='last'><img src=/cliparts/8/v/c/G/t/B/cartoon-sporty-car-th.png><br/>cartoon Sporty Car</a></li></div><div><li><a href='/clipart-red-car-top-view.html'><img src=/cliparts/A/Y/d/4/O/1/red-car-top-view-th.png><br/>Red Car - Top View</a></li></div><div><li><a href='/clipart-red-car-top-view-1.html'><img src=/cliparts/u/X/H/5/K/K/red-car-top-view-th.png><br/>Red Car - Top View</a></li></div><div><li><a href='/clipart-red-car-top-view-2.html'><img src=/cliparts/C/U/R/P/U/m/red-car-top-view-th.png><br/>Red Car - Top View</a></li></div><div><li><a href='/clipart-red-car-top-view-3.html'><img src=/cliparts/Z/d/X/1/t/a/red-car-top-view-th.png><br/>Red Car - Top View</a></li></div><div><li><a href='/clipart-three-way-intersection-1.html' class='last'><img src=/cliparts/u/z/d/J/3/w/three-way-intersection-th.png><br/>Three Way Intersection</a></li></div><div><li><a href='/clipart-red-car-top-view-5.html'><img src=/cliparts/B/U/j/9/o/I/red-car-top-view-th.png><br/>Red Car - Top View</a></li></div><div><li><a href='/clipart-red-car-top-view-6.html'><img src=/cliparts/G/h/8/0/n/S/red-car-top-view-th.png><br/>Red Car - Top View</a></li></div><div><li><a href='/clipart-car-accident-collision.html'><img src=/cliparts/Q/2/r/S/Q/z/car-accident-collision-th.png><br/>Car Accident collision</a></li></div><div><li><a href='/clipart-greycar-top-view.html'><img src=/cliparts/d/m/G/5/b/V/greycar-top-view-th.png><br/>GreyCar - Top View</a></li></div><div><li><a href='/clipart-car-top-view.html' class='last'><img src=/cliparts/v/C/D/3/g/s/car-top-view-th.png><br/>car top view</a></li></div>		</ul>
+	</div>
+
+</div>
+<!-- /AD + Related Full Width Section -->
+<!-- 3 Columns: 1. Categories | 2. Searches that got here | 3. Searches to clipart shown -->
+<div class="matte group">
+
+	<div class="oneCol billboard">
+		<!-- Categories -->
+		<h3 class="capText" style="margin-top: 7em;">Clipart For:</h3>
+		<ul class="colMenu capText">
+			<li><a href="/search/religion/1">Religion</a></li>
+			<li><a href="/search/office/1">Office</a></li>
+			<li><a href="/search/family/1">Family</a></li>
+			<li><a href="/search/friendship/1">Friendship</a></li>
+			<li><a href="/search/love/1">Love</a></li>
+			<li><a href="/search/teaching/1">Teaching</a></li>
+			<li><a href="/search/architecture/1" class="last">Architecture</a></li>
+		</ul>
+		<ul class="colMenu capText">
+			<li><a href="/search/art/1">Art</a></li>
+			<li><a href="/search/filmmaking/1">Filmmaking</a></li>
+			<li><a href="/search/gardening/1">Gardening</a></li>
+			<li><a href="/search/math/1">Math</a></li>
+			<li><a href="/search/science/1">Science</a></li>
+			<li><a href="/search/green/1">Green</a></li>
+			<li><a href="/search/cyclists/1" class="last">Cyclists</a></li>
+		</ul>
+		<!-- /Categories -->
+	</div>
+	
+		<div class="oneCol billboard">
+	
+		<!-- Search Form -->
+		<form class="supSearch capText" id="bottomform"  method="post" action="/redir.html">
+			<!--<label>Search</label>-->
+			<input type="text" id="bottomsearch" name="terms" value="" placeholder="Clkr Search"/> 
+			<input type="submit" value="Search"/>
+			<input type="hidden" name="#" value="#"/>
+		</form>
+		<!-- /Search Form -->
+		<div style="clear:both;"></div>
+		<h3 class="capText">PEOPLE GOT HERE BY SEARCHING:</h3>
+		<!-- UL used for TAG lists -->
+		<ul class="tags tiny group">
+			<li><a href='/clipart-aqua-car-top-view.html'>cartoon cars top view</a></li><li><a href='/clipart-aqua-car-top-view.html'>cartoon car top view</a></li>		</ul>
+	</div>	
+	
+</div>
+<!-- 
+0 - 0 - start	
+0 - 0 - login.php.ShowLoginForms: start	
+1 - 1 - login.php.ShowLoginForms: passed IsLoggedIn()	
+1 - 0 - login.php.ShowLoginForms: passed ShowLoginForm()(1)	
+1 - 0 - includes dones	
+1 - 0 - got tags from cache	
+1 - 0 - starting html generation	
+33 - 32 - columns done	
+33 - 0 - got tags from cache	
+33 - 0 - tags hashed. minratio: 0.5 type svgimage	
+33 - 0 - got related items from cache	
+33 - 0 - got related cliparts	
+33 - 0 - got similar	
+37 - 4 - AD + Related Full Width Section	
+37 - 0 - categories done	
+37 - 0 - search tags leading here	
+37 - 0 - done	 --><!-- /Body Container -->
+<!-- Footer -->
+<div class="matte group">
+	<div class="foot">
+		<ul class="capText group">
+			<li><a href="/advertising.html">Advertise on clker</a></li>
+			<li><a href="/bugs-features.html">Report a bug</a></li>
+			<li><a href="/bugs-features.html">Request a feature</a></li>
+			<li><a href="/needtagging.html">tag</a></li>
+			<li class="last"><a href="/faq.html">FAQ</a></li>
+		</ul>
+		<ul class="capText group">
+			<li><a href="/disclaimer.html">Terms of Use &amp; Disclaimer</a></li>
+			<li><a href="/privacy-policy.html">Privacy</a></li>
+			<li><a href="/dmcanotices.html">DMCA notices</a></li>
+			<li class="last"><a href="/sponsored-results-disclosure.html">Affiliate Ads &amp; Sponsored Results</a></li>
+		</ul>
+		<p class="tiny">Clker.com is owned by Rolera LLC, 2270 Route 30, Oswego, IL 60543 support\at\clker\dot\com</p>
+	</div>
+</div>
+<!-- /Footer -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22871762-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+<!-- 37 ms to generate page-->
+</html>
